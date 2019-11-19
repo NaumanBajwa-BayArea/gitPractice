@@ -1,0 +1,3 @@
+1- property observer 
+2- tap gesture
+3- animation
